@@ -1,0 +1,56 @@
+Getting apps in org BSD-ORION-STG / space VMS as ssaleh932...
+OK
+
+name                                                                                 requested state   instances   memory   disk    urls
+switchprovisioningrequest-stg-generic#VMSTemplateService_VMS_B2_R0a1aee              started           1/1         3G       1000M   switchprovisioningrequest-stg.g5.app.cloud.comcast.net
+tninventoryprovisioning-stg-generic#VMSTemplateService_VMS_B2_R683c55                started           1/1         3G       1000M   tninventoryprovisioning-stg.g5.app.cloud.comcast.net
+importexport-stg-generic#VMSTemplateService_VMS_B2_R6d7e33                           started           1/1         2G       1000M   importexport-service-stg.g5.app.cloud.comcast.net
+vmsuigateway-stg-generic#VMSTemplateService_VMS_B2_R4f22d2                           started           1/1         1G       1000M   vmsuigateway-stg.g5.app.cloud.comcast.net
+pdf-stg-generic#VMSTemplateService_VMS_B2_R740e8b                                    started           1/1         3G       1000M   pdf-service-stg.g5.app.cloud.comcast.net
+tnactivationprovisioning-stg-generic#VMSTemplateService_VMS_B2_R85315e               started           1/1         3G       1000M   tnactivationprovisioning-stg.g5.app.cloud.comcast.net
+switchprovisioningresponse-stg-generic#VMSTemplateService_VMS_B2_R4274da             started           1/1         3G       1000M   switchprovisioningresponse-stg.g5.app.cloud.comcast.net
+vmsinfoprovisioning-stg-generic#VMSTemplateService_VMS_B2_R05edb2                    started           1/1         3G       1000M   vmsinfoprovisioning-stg.g5.app.cloud.comcast.net
+vmsregistry-service-stg-generic#VMSTemplateService_VMS_B2_Rd02907                    started           1/1         1G       1000M   vmsregistry-service-stg.g5.app.cloud.comcast.net
+cnamprovisioningrequest-stg-generic#VMSTemplateService_VMS_B2_Rd6ee8b                started           1/1         2G       1000M   cnamprovisioningrequest-stg.g5.app.cloud.comcast.net
+vmsproduct-stg-generic#VMSTemplateService_VMS_B2_Redc4ed                             started           1/1         3G       1000M   vmsproduct-stg.g5.app.cloud.comcast.net
+vms-configservice-stg-generic#VMSTemplateService_VMS_B2_R3170b5                      started           1/1         1G       1000M   vms-configservice-stg.g5.app.cloud.comcast.net
+vmsinfo-service-stg-generic#VMSTemplateService_VMS_B2_Rcb8b28                        started           1/1         3G       1000M   vmsinfo-service-stg.g5.app.cloud.comcast.net
+vmsprovisioning-stg-generic#VMSTemplateService_VMS_B2_R346a2f                        started           1/1         3G       1000M   vmsprovisioning-stg.g5.app.cloud.comcast.net
+vmsinventory-stg-generic#VMSTemplateService_VMS_B2_R0d7bf5                           stopped           0/1         2G       1000M   vmsinventory-stg.g5.app.cloud.comcast.net
+vmscompletedesign-stg-generic#VMSTemplateService_VMS_B2_R81c623                      started           1/1         3G       1000M   vmscompletedesign-stg.g5.app.cloud.comcast.net
+servicedesign-stg-generic#VMSTemplateService_VMS_B2_Rb6c9d8                          stopped           0/1         2G       1000M   servicedesign-stg.g5.app.cloud.comcast.net
+tninventory-service-stg-generic#VMSTemplateService_VMS_B2_Rfcc175                    started           1/1         3G       1000M   tninventory-service-stg.g5.app.cloud.comcast.net
+provisioningonpcallback-service-stg-generic#VMSTemplateService_VMS_B2_Rfc0191        started           1/1         3G       1000M   provisioningonpcallback-service-stg.g5.app.cloud.comcast.net
+dadlprovisioningresponse-service-stg-generic#VMSTemplateService_VMS_B2_Rdcc5a7       started           1/1         3G       1000M   dadlprovisioningresponse-service-stg.g5.app.cloud.comcast.net
+provisioningonpnotification-stg-generic#VMSTemplateService_VMS_B2_Rfca81a            started           1/1         3G       1000M   provisioningonpnotification-stg.g5.app.cloud.comcast.net
+vmsdevice-stg-generic#VMSTemplateService_VMS_B2_R533dd3                              started           1/1         3G       1000M   vmsdevice-stg.g5.app.cloud.comcast.net
+auditlogging-vms-service-stg-generic#VMSTemplateService_VMS_B2_R4042c5               started           1/1         3G       1000M   auditlogging-vms-service-stg.g5.app.cloud.comcast.net
+vmscompletedesign-stg-generic#VMSTemplateService_VMS_B2_R2fda00                      started           1/1         3G       1000M   vmscompletedesign-stg.g5.app.cloud.comcast.net
+switchactivationprovisioning-stg-generic#VMSTemplateService_VMS_B2_Rad747d           started           1/1         3G       1000M   switchactivationprovisioning-stg.g5.app.cloud.comcast.net
+servicedesign-stg-generic#VMSTemplateService_VMS_B2_R0134e9                          started           2/2         2G       1000M   servicedesign-stg.g5.app.cloud.comcast.net
+audit-stg-generic#VMSTemplateService_VMS_B2_R59a098                                  started           1/1         2G       1000M   audit-stg.g5.app.cloud.comcast.net
+vmsdata-stg-generic#VMSTemplateService_VMS_B2_Re2972e                                started           1/1         3G       1000M   vmsdata-stg.g5.app.cloud.comcast.net
+dadlprovisioning-stg-generic#VMSTemplateService_VMS_B2_R8cf6f3                       started           1/1         3G       1000M   dadlprovisioning-stg.g5.app.cloud.comcast.net
+cnamprovisioningresponse-stg-generic#VMSTemplateService_VMS_B2_R659108               started           1/1         2G       1000M   cnamprovisioningresponse-stg.g5.app.cloud.comcast.net
+vmsgui-stg                                                                           started           1/1         256M     1000M   vmsgui-stg.g5.app.cloud.comcast.net
+tnactivationprovisioningresponse-stg-generic#VMSTemplateService_VMS_B2_R949dbf       started           1/1         3G       1000M   tnactivationprovisioningresponse-stg.g5.app.cloud.comcast.net
+voicecompleteprovisioning-stg-generic#VMSTemplateService_VMS_B2_R640b61              started           1/1         2G       1000M   voicecompleteprovisioning-stg.g5.app.cloud.comcast.net
+vmsinfoprovisioning-stg-generic#VMSTemplateService_VMS_B2_Reede86                    stopped           0/1         3G       1000M   vmsinfoprovisioning-stg.g5.app.cloud.comcast.net
+designtool-stg-generic#VMSTemplateService_VMS_B2_Ref7eb5                             started           1/1         3G       1000M   designtool-stg.g5.app.cloud.comcast.net
+tfprovisioningresponse-stg-generic#VMSTemplateService_VMS_B2_Rc7395a                 started           1/1         1G       1000M   tfprovisioningresponse-stg.g5.app.cloud.comcast.net
+compsprovisioning-stg-generic#VMSTemplateService_VMS_B2_R68a30c                      started           1/1         3G       1000M   compsprovisioning-stg.g5.app.cloud.comcast.net
+e911provisioningrequest-stg-generic#VMSTemplateService_VMS_B2_R4234ef                started           1/1         2G       1000M   e911provisioningrequest-stg.g5.app.cloud.comcast.net
+vmsbveseat-stg-generic#VMSTemplateService_VMS_B2_Rd06a34                             started           1/1         3G       1000M   vmsbveseat-stg.g5.app.cloud.comcast.net
+tfprovisioning-stg-generic#VMSTemplateService_VMS_B2_Rc531d3                         started           1/1         2G       1000M   tfprovisioning-stg.g5.app.cloud.comcast.net
+importexport-stg-generic#VMSTemplateService_VMS_B2_R2ec4b0                           stopped           0/1         2G       1000M   importexport-service-stg.g5.app.cloud.comcast.net
+fallout-service-stg-generic#VMSTemplateService_VMS_B2_R6567db                        started           1/1         3G       1000M   fallout-service-stg.g5.app.cloud.comcast.net
+vmsinventory-stg-generic#VMSTemplateService_VMS_B2_Re490b2                           started           1/1         2G       1000M   vmsinventory-stg.g5.app.cloud.comcast.net
+vms-gui                                                                              started           1/1         128M     1000M   vms-gui.g5.app.cloud.comcast.net, vms-stg.g5.app.cloud.comcast.net
+switchactivationprovisioningresponse-stg-generic#VMSTemplateService_VMS_B2_R6c6604   started           1/1         3G       1000M   switchactivationprovisioningresponse-stg.g5.app.cloud.comcast.net
+canceldesign-stg-generic#VMSTemplateService_VMS_B2_R9f2c0a                           started           1/1         3G       1000M   canceldesign-stg.g5.app.cloud.comcast.net
+vmscustomer-service-stg-generic#VMSTemplateService_VMS_B2_R09986d                    started           1/1         3G       1000M   vmscustomer-service-stg.g5.app.cloud.comcast.net
+vmsbvprovisioning-stg-generic#VMSTemplateService_VMS_B2_R1b1dfa                      started           1/1         3G       1000M   vmsbvprovisioning-stg.g5.app.cloud.comcast.net
+pdf-stg-generic#VMSTemplateService_VMS_B2_R52e1fd                                    stopped           0/1         3G       1000M   pdf-service-stg.g5.app.cloud.comcast.net
+vmscustomer-service-stg-generic#VMSTemplateService_VMS_B2_Re5d080                    stopped           0/1         3G       1000M   vmscustomer-service-stg.g5.app.cloud.comcast.net
+e911provisioningresponse-stg-generic#VMSTemplateService_VMS_B2_R22db90               started           1/1         2G       1000M   e911provisioningresponse-stg.g5.app.cloud.comcast.net
+vmsgateway-stg-generic#VMSTemplateService_VMS_B2_R399cba                             started           1/1         1G       1000M   vmsgateway-stg.g5.app.cloud.comcast.net
